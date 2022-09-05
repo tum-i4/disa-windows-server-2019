@@ -1,7 +1,7 @@
 # DISA Windows Server 2019 STIG Evaluation
 
 This repository is part of the paper *Automated Implementation of Windows-related Security-Configuration Guides* presented at the 35th IEEE/ACM International Conference on Automated Software Engineering.
-We conducted all the steps described in our article additionally on the [DISA Windows Server 2019 STIG benchmark](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2016_V1R13_STIG_SCAP_1-2_Benchmark.zip) to demonstrate that our approach is feasible on recent security-configuration guides.
+We conducted all the steps described in our article additionally on the [DISA Windows Server 2019 STIG benchmark](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2019_V2R2_STIG_SCAP_1-2_Benchmark.zip) to demonstrate that our approach is feasible on recent security-configuration guides.
 
 We stored the benchmark in the *Scapolite* format.
 The Scapolite files are particular [Markdown](https://daringfireball.net/projects/markdown/) files.
